@@ -1,1 +1,4 @@
 options.yml
+db.sqlite3
+message.txt
+__pycache__/
